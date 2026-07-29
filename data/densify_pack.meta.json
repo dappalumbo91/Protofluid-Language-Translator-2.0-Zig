@@ -1,0 +1,23 @@
+{
+  "built_utc": "2026-07-29T17:59:20.782924+00:00",
+  "path": "I:\\pflt\\embodiment\\zig\\data\\densify_pack.tsv",
+  "n_rows": 63693,
+  "by_lang": {
+    "en": 28978,
+    "de": 34715
+  },
+  "sources": {
+    "catalog_bindings": "I:\\pflt\\data\\language_brain\\catalog_bindings.jsonl",
+    "gold_core": "I:\\pflt\\pflt-Ada\\data\\gold_core.tsv",
+    "closed_class_multilang": "I:\\pflt\\data\\language_brain\\closed_class_multilang.json",
+    "de_closed": "I:\\pflt\\scripts\\fsot_de_closed_class_form.py"
+  },
+  "stats": {
+    "catalog": 59218,
+    "gold": 4427,
+    "closed_multi": 39,
+    "closed_class_override": 180
+  },
+  "doctrine": "form\u2192SENSE\u2192form; DE closed-class last; no multi-GB; no NMT",
+  "product": "I:\\pflt\\embodiment\\zig pflt translate"
+}

@@ -1,0 +1,12 @@
+# PFLT competitive gold pairs — src_lang	tgt_lang	source	reference
+# Used by: pflt compare data/gold_pairs.tsv
+de	en	die regierung hat wasser	the government has water
+de	en	die regierung hat wasser und gesetz	the government has water and law
+de	en	Die Katze ist frei	the cat is free
+de	en	Die Polizei hat das Gesetz	the police has the law
+de	en	Hallo Welt ich bin frei	hello world i am free
+de	en	das unternehmen und die wirtschaft	the company and the economy
+de	en	die stadt hat kein wasser	the city has no water
+de	en	ich bin in der schule	i am in the school
+de	en	der krieg und der frieden	the war and the peace
+de	en	heute ist ein guter tag	today is a good day

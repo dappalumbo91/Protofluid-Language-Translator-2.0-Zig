@@ -1,0 +1,17 @@
+﻿# build
+.zig-cache/
+zig-out/
+dist/
+
+# session decision logs (generated)
+logs/*.jsonl
+!logs/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.pdb
+*.obj
+.vs/
+.idea/
+*.swp
