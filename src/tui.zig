@@ -7,7 +7,7 @@ const densify_pack = @import("densify_pack.zig");
 const translate_mod = @import("translate.zig");
 const decision_log = @import("decision_log.zig");
 
-const VERSION = "2.0.0-zig";
+const VERSION = "2.0.1-zig";
 
 // ANSI
 const RESET = "\x1b[0m";

@@ -1,7 +1,7 @@
 # PFLT 2.0 Thorough Stress Report
 
-- built: `2026-07-29T18:18:00.420450+00:00`
-- elapsed_s: 32.53
+- built: `2026-07-29T22:20:04.944555+00:00`
+- elapsed_s: 31.58
 - all_gates_pass: **True**
 
 ## Gates

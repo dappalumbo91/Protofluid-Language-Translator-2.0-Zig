@@ -19,7 +19,7 @@ const tui = @import("tui.zig");
 const mform = @import("machine_form_fixed.zig");
 const pflt_ml = @import("pflt_machine_lang.zig");
 
-const VERSION = "2.0.0-zig";
+const VERSION = "2.0.1-zig";
 
 fn printUsage() void {
     std.debug.print(

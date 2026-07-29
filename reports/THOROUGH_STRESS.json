@@ -1,5 +1,5 @@
 {
-  "built_utc": "2026-07-29T18:18:00.420450+00:00",
+  "built_utc": "2026-07-29T22:20:04.944555+00:00",
   "binary": "I:\\pflt\\embodiment\\zig\\zig-out\\bin\\pflt.exe",
   "pack": "I:\\pflt\\embodiment\\zig\\data\\densify_pack.tsv",
   "pin": "D1D38A",
@@ -258,7 +258,7 @@
     "bulk_exact_ge_0_75": true
   },
   "all_gates_pass": true,
-  "elapsed_s": 32.53,
+  "elapsed_s": 31.58,
   "repo_audit": {
     "note": "token scan + file parity performed separately",
     "product_doctrine": "form→SENSE→form densify; closed wins; pin D1D38A"
