@@ -1,0 +1,762 @@
+# src_lang	tgt_lang	source	reference
+de	en	aber	but
+de	en	als	as
+de	en	alt	old
+de	en	am	at
+de	en	an	at
+de	en	arbeit	work
+de	en	auch	also
+de	en	auf	on
+de	en	aus	out
+de	en	bei	at
+de	en	bin	am
+de	en	bist	are
+de	en	bitte	please
+de	en	blut	blood
+de	en	brot	bread
+de	en	buch	book
+de	en	da	there
+de	en	danke	thanks
+de	en	darf	may
+de	en	das	the
+de	en	dass	that
+de	en	daß	that
+de	en	dem	the
+de	en	den	the
+de	en	denn	because
+de	en	der	the
+de	en	des	the
+de	en	dich	you
+de	en	die	the
+de	en	diese	this
+de	en	dieser	this
+de	en	dieses	this
+de	en	dir	you
+de	en	doch	yet
+de	en	dort	there
+de	en	du	you
+de	en	duerfen	may
+de	en	durch	through
+de	en	dürfen	may
+de	en	ein	a
+de	en	eine	a
+de	en	einem	a
+de	en	einen	a
+de	en	einer	a
+de	en	eines	a
+de	en	er	he
+de	en	es	it
+de	en	euch	you
+de	en	frau	woman
+de	en	frei	free
+de	en	freund	friend
+de	en	frieden	peace
+de	en	fuer	for
+de	en	für	for
+de	en	gegen	against
+de	en	geld	money
+de	en	gesetz	law
+de	en	gestern	yesterday
+de	en	groß	large
+de	en	gut	good
+de	en	haben	have
+de	en	hallo	hello
+de	en	hat	has
+de	en	hatte	had
+de	en	hatten	had
+de	en	haus	house
+de	en	heute	today
+de	en	hier	here
+de	en	himmel	sky
+de	en	hund	dog
+de	en	ich	i
+de	en	ihm	him
+de	en	ihn	him
+de	en	ihr	you
+de	en	im	in
+de	en	in	in
+de	en	ist	is
+de	en	ja	yes
+de	en	jahr	year
+de	en	jahren	years
+de	en	jene	that
+de	en	jener	that
+de	en	jenes	that
+de	en	jetzt	now
+de	en	kann	can
+de	en	katze	cat
+de	en	kein	no
+de	en	keine	no
+de	en	keinem	no
+de	en	keinen	no
+de	en	keiner	no
+de	en	kind	child
+de	en	kinder	children
+de	en	klein	small
+de	en	koennen	can
+de	en	kostenlos	free
+de	en	krieg	war
+de	en	könig	king
+de	en	können	can
+de	en	land	country
+de	en	leben	life
+de	en	liebe	love
+de	en	mag	like
+de	en	mal	once
+de	en	man	one
+de	en	mann	man
+de	en	mehr	more
+de	en	mensch	person
+de	en	menschen	people
+de	en	mich	me
+de	en	milch	milk
+de	en	mir	me
+de	en	mit	with
+de	en	moegen	like
+de	en	morgen	tomorrow
+de	en	muessen	must
+de	en	muss	must
+de	en	muß	must
+de	en	mögen	like
+de	en	müssen	must
+de	en	nach	after
+de	en	nein	no
+de	en	neu	new
+de	en	nicht	not
+de	en	noch	still
+de	en	nur	only
+de	en	ob	whether
+de	en	oder	or
+de	en	ohne	without
+de	en	polizei	police
+de	en	regierung	government
+de	en	schon	already
+de	en	schule	school
+de	en	sehr	very
+de	en	sein	be
+de	en	sich	itself
+de	en	sie	she
+de	en	sind	are
+de	en	so	so
+de	en	soll	should
+de	en	sollen	should
+de	en	sprache	language
+de	en	stadt	city
+de	en	tag	day
+de	en	tod	death
+de	en	ueber	over
+de	en	um	around
+de	en	und	and
+de	en	uns	us
+de	en	unter	under
+de	en	unternehmen	company
+de	en	von	from
+de	en	vor	before
+de	en	wann	when
+de	en	war	was
+de	en	waren	were
+de	en	was	what
+de	en	wasser	water
+de	en	weil	because
+de	en	welche	which
+de	en	welcher	which
+de	en	welches	which
+de	en	welt	world
+de	en	wenn	if
+de	en	wer	who
+de	en	werden	become
+de	en	wie	how
+de	en	will	want
+de	en	wir	we
+de	en	wird	will
+de	en	wirtschaft	economy
+de	en	wo	where
+de	en	wollen	want
+de	en	wort	word
+de	en	wurde	became
+de	en	wurden	became
+de	en	zeit	time
+de	en	zu	to
+de	en	zwischen	between
+de	en	über	over
+de	en	tuend	do
+de	en	vifste	vivid
+de	en	geler	alternative
+de	en	schoß	lap
+de	en	abtötet	mortify
+de	en	fütterten	feed
+de	en	pflanzte	cully
+de	en	kais	wharf
+de	en	mähnenwolf	maned
+de	en	nymphen	nymph
+de	en	handies	mobile
+de	en	gärtlein	garden
+de	en	pharaonin	pharaoh
+de	en	platzes	square
+de	en	vierfache	fourfold
+de	en	äßt	eat
+de	en	streckte	stretch
+de	en	eloquenteren	eloquent
+de	en	wüschest	wash
+de	en	englands	england
+de	en	wahrheitsgetreu	decent
+de	en	meters	meter
+de	en	aufsteht	rise
+de	en	psychische	psychical
+de	en	pharao	pharaoh
+de	en	vibrators	vibrator
+de	en	saxophonen	saxophone
+de	en	ausräuchrest	fumigate
+de	en	stubenfliegen	housefly
+de	en	sahels	sahel
+de	en	fabrikat	article
+de	en	winde	wind
+de	en	ravend	rave
+de	en	kämmerchen	chamber
+de	en	drehen	to
+de	en	aufrichtig	decent
+de	en	synopsen	synopsis
+de	en	faschiertest	mince
+de	en	veränderlichkeit	instability
+de	en	erstmalig	first
+de	en	gewaltverbrechen	violent
+de	en	januars	january
+de	en	schilderst	depict
+de	en	paar	some
+de	en	radar	radar
+de	en	fallweise	sometimes
+de	en	kriminalisten	criminal
+de	en	suv	initialism
+de	en	mäler	mark
+de	en	mäulern	mouth
+de	en	abließe	drain
+de	en	tores	gate
+de	en	vermittelung	intermediation
+de	en	resümee	conclusion
+de	en	xylophone	xylophone
+de	en	hauend	thrust
+de	en	abend	evening
+de	en	prägten	to
+de	en	bloßerem	mere
+de	en	herberes	harsh
+de	en	beschriftest	label
+de	en	sexuell	sexual
+de	en	reporters	reporter
+de	en	künstlichster	artificial
+de	en	grase	grass
+de	en	empfinden	to
+de	en	südlichsten	south
+de	en	aufklären	to
+de	en	genaue	exact
+de	en	dickerem	thick
+de	en	erklärung	explanation
+de	en	abstoßet	repel
+de	en	pfullendorf	pfullendorf
+de	en	aldebaran	aldebaran
+de	en	überqueren	to
+de	en	maffias	formerly
+de	en	browse	firstperson
+de	en	cabriolet	convertible
+de	en	loches	hole
+de	en	bornes	well
+de	en	raststätte	roadhouse
+de	en	buchenes	beech
+de	en	baskischer	basque
+de	en	harnsteinen	urinary
+de	en	trondheims	trondheim
+de	en	unruhe	turbulence
+de	en	flirt	flirt
+de	en	lattes	ellipsis
+de	en	psychiatrischen	psychiatric
+de	en	calayan-ralle	calayan
+de	en	unstrukturiertes	unstructured
+de	en	frisbees	frisbee
+de	en	nennen	name
+de	en	planares	planar
+de	en	viral	viral
+de	en	fotografiert	photograph
+de	en	spurt	spurt
+de	en	bezug	reference
+de	en	transcendentalerem	obsolete spelling of transzendental
+de	en	pinkestem	coloured
+de	en	überdurchschnittlicheres	above
+de	en	aufgezwungen	to
+de	en	benutzbare	usable
+de	en	routinier	old
+de	en	nackterer	naked
+de	en	südamerikanischstes	south
+de	en	egos	ego
+de	en	folgte	follow
+de	en	schutzimpfung	vaccination
+de	en	hänflingen	linnet
+de	en	context	context
+de	en	bildchen	depiction
+de	en	ökonomischer	economic
+de	en	recken	horizontal
+de	en	visionen	vision
+de	en	dachorganisation	federation
+de	en	kanzler	chancellor
+de	en	saft	juice
+de	en	liberia	liberia
+de	en	forderte	to
+de	en	thalliums	thallium
+de	en	einfache	easy
+de	en	fundamentalem	fundamental
+de	en	unterstützt	support
+de	en	erbse	pea
+de	en	unterliegen	to
+de	en	rade	wheel
+de	en	hierauf	in
+de	en	tatst	do
+de	en	reiter	rider
+de	en	böseren	evil
+de	en	nordländer	country
+de	en	permutation	permutation
+de	en	ester	ester
+de	en	moments	moment
+de	en	bewertungen	evaluation
+de	en	tarnest	camouflage
+de	en	freistem	free
+de	en	stadtrates	city
+de	en	bisone	bison
+de	en	angesehensten	reputable
+de	en	perplex	confused
+de	en	granaten	grenade
+de	en	erwürget	strangle
+de	en	säuget	lactate
+de	en	demokratischste	democratic
+de	en	bäuerchens	diminutive
+de	en	enttäuschend	to
+de	en	dunkleren	dark
+de	en	meistem	superlative
+de	en	machest	make
+de	en	stetigkeit	constancy
+de	en	menschenaffen	ape
+de	en	fötzchen	cunt
+de	en	lachte	laugh
+de	en	paars	pair
+de	en	visa	alternative form of visum
+de	en	herzen	heart
+de	en	malaysias	malaysia
+de	en	erwürgest	strangle
+de	en	übersetze	translate
+de	en	zusammenstöße	collision
+de	en	norwegischer	norwegian
+de	en	koran	qur
+de	en	klauen	claw
+de	en	erzählst	tell
+de	en	asexuale	asexual
+de	en	ned	alternative form of
+de	en	indifferentes	indifferent
+de	en	gesellschaften	company
+de	en	turbulent	turbulent
+de	en	freier	free
+de	en	arides	arid
+de	en	ia	heehaw
+de	en	syn	forms
+de	en	verwirklichung	fruition
+de	en	podcasts	podcast
+de	en	schadeten	hurt
+de	en	störungen	disturbance
+de	en	füchslein	fox
+de	en	muskaten	nutmeg
+de	en	ende	end
+de	en	jargon	jargon
+de	en	department	department
+de	en	polltest	poll
+de	en	pendants	counterpart
+de	en	gejammert	wail
+de	en	frage	ask
+de	en	verbrechend	do
+de	en	absenter	absent
+de	en	paradoxerem	paradoxical
+de	en	darin	with
+de	en	einet	unite
+de	en	volk	people
+de	en	real	real
+de	en	handschühlein	any
+de	en	unzufriedenheit	discontent
+de	en	strecktet	stretch
+de	en	leim	glue
+de	en	börgst	contain
+de	en	ausschenken	to
+de	en	relation	relation
+de	en	gewicht	weight
+de	en	indonesischster	indonesian
+de	en	bunterer	spotted
+de	en	parkgebühren	parking
+de	en	regten	move
+de	en	kürzere	short
+de	en	büchelchen	books
+de	en	apricot	apricotcoloured
+de	en	eber	boar
+de	en	lockeres	loose
+de	en	abaxial	abaxial
+de	en	gebenedeit	bless
+de	en	umfahrt	swerve
+de	en	marge	margin
+de	en	humaneres	humane
+de	en	häuflein	heap
+de	en	dissidenterem	dissident
+de	en	emotionalerem	emotional
+de	en	ungareren	not
+de	en	aussicht	scenery
+de	en	gefastet	fast
+de	en	sterbest	die
+de	en	befeuern	to
+de	en	suspendierungen	suspension
+de	en	tanzend	dance
+de	en	aussagen	proposition
+de	en	radio	radio
+de	en	loyaleres	loyal
+de	en	behauptet	to
+de	en	klub	club
+de	en	match	to
+de	en	podcasten	podcast
+de	en	glücksräder	wheel
+de	en	anschmeißen	to
+de	en	flink	quick
+de	en	relikt	residue
+de	en	adverb	adverb
+de	en	zinnes	tin
+de	en	defenestriere	defenestrate
+de	en	rep	clipping
+de	en	anne	female
+de	en	glockenspiels	glockenspiel
+de	en	things	thing
+de	en	behandeltet	treat
+de	en	weisheit	wisdom
+de	en	gleichmäßiges	consistent
+de	en	eminentestem	eminent
+de	en	neuste	new
+de	en	wahrnehmen	to
+de	en	darauf	in
+de	en	angefangen	begin
+de	en	anatomin	anatomist
+de	en	banaler	banal
+de	en	stock	floor
+de	en	originalsten	original
+de	en	infrarotem	infrared
+de	en	struktur	structure
+de	en	vorstoße	advance
+de	en	bekomme	receive
+de	en	durchdacht	proposed
+de	en	rechtsprechung	case
+de	en	schwächstes	weak
+de	en	beginnst	begin
+de	en	fahrzeugen	vehicle
+de	en	belfast	belfast
+de	en	guatemala	guatemala
+de	en	gemütlichste	cosy
+de	en	gantz	entire
+de	en	soforthilfe	emergency
+de	en	laurin	male
+de	en	süchtigster	addicted
+de	en	superlativs	superlative
+de	en	nepalesin	nepali
+de	en	dienend	serve
+de	en	wühltet	rummage
+de	en	verkauftem	sold
+de	en	kummerspeck	excess
+de	en	goldenes	golden
+de	en	sorbets	sorbet
+de	en	bestuhle	furnish
+de	en	abessynien	nude
+de	en	blitzschläge	lightning
+de	en	bistros	bistro
+de	en	argons	argon
+de	en	bockwürste	sausage
+de	en	öle	oil
+de	en	vielfältigeres	diverse
+de	en	würgers	agent
+de	en	rücklage	reserve
+de	en	surrealstem	surreal
+de	en	golds	gold
+de	en	orient	orient
+de	en	minimstes	minimal
+de	en	abundanteste	abundant
+de	en	medizinische	medicinal
+de	en	scheißen	shit
+de	en	kugelschnecken	sea
+de	en	gehirnen	brain
+de	en	toleranteren	tolerant
+de	en	pureren	pure
+de	en	promethium	promethium
+de	en	immigration	immigration
+de	en	angeht	to
+de	en	wölfe	wolf
+de	en	völlig	complete
+de	en	powereres	poor
+de	en	box	singular
+de	en	transport	transport
+de	en	reises	rice
+de	en	fehler	fault
+de	en	koch	to
+de	en	butlers	butler
+de	en	kleider	dress
+de	en	emmentaler	native
+de	en	cakes	cookie
+de	en	kenia	kenya
+de	en	lappens	cloth
+de	en	schärferer	sharp
+de	en	hervorschauen	to
+de	en	abdecke	cover
+de	en	paranormale	paranormal
+de	en	mulla	mullah
+de	en	stricket	knit
+de	en	durstiger	thirsty
+de	en	volleyballs	volleyball
+de	en	sv	sports
+de	en	millimetern	millimetre
+de	en	unvollständigen	incomplete
+de	en	tuvalu	tuvalu
+de	en	anschläge	attack
+de	en	vilnius	vilnius
+de	en	fossiles	fossil
+de	en	distales	distal
+de	en	erzeugnis	article
+de	en	defensive	defense
+de	en	beeinspruchung	objection
+de	en	erwachen	to
+de	en	arbeitest	work
+de	en	konfrontierst	confront
+de	en	katzenjammer	dejection
+de	en	promotions	promotion
+de	en	maulwurfes	mole
+de	en	tipps	tip
+de	en	davongelaufen	to
+de	en	möchtegerns	wannabe
+de	en	drogen	drug
+de	en	kämmtest	groom
+de	en	schwuler	gay
+de	en	kali	potash
+de	en	handschuhs	any
+de	en	dünnstem	thin
+de	en	entschied	to
+de	en	texten	text
+de	en	spielkarten	playing
+de	en	eritreas	eritrea
+de	en	centaur	former
+de	en	gelbstem	yellow
+de	en	fremdes	strange
+de	en	unstrukturiertesten	unstructured
+de	en	buchautorin	book
+de	en	süss	sweet
+de	en	portugiesischere	portuguese
+de	en	cleanstes	clean
+de	en	geschlechtlicher	sexual
+de	en	richtigerer	correct
+de	en	verlierend	lose
+de	en	monden	moon
+de	en	hustens	gerund
+de	en	tonalsten	tonal
+de	en	stüblein	living
+de	en	bestandteil	component
+de	en	abdanktest	resign
+de	en	nationalsozialistin	national
+de	en	ablasse	drain
+de	en	schuhbands	shoelace
+de	en	entflöhst	escape
+de	en	zahlt	pay
+de	en	basketbälle	basketball
+de	en	fröschchen	frog
+de	en	kandidierender	candidate
+de	en	geleaved	leave
+de	en	betuend	care
+de	en	arckeley	artillery
+de	en	geleiten	to
+de	en	sku	abbreviation
+de	en	reservieren	to
+de	en	florentinens	female
+de	en	antiviralen	antiviral
+de	en	hinreichende	sufficient
+de	en	unorthodoxer	unorthodox
+de	en	vorgestellten	envisaged
+de	en	ausbildung	training
+de	en	südamerikanischem	south
+de	en	hui	exclamation
+de	en	mutmaßlichen	alleged
+de	en	schäfchen	sheep
+de	en	pos	singular
+de	en	orales	mouth
+de	en	kalbe	calf
+de	en	hut	hat
+de	en	fessel	chain
+de	en	stefanie	female
+de	en	herauf	up
+de	en	revolvern	revolver
+de	en	effizient	efficient
+de	en	käppchen	cap
+de	en	aroma	spicy
+de	en	rolltest	roll
+de	en	ariden	arid
+de	en	beklagter	defendant
+de	en	kalifornischen	californian
+de	en	verschwenden	to
+de	en	drohten	to
+de	en	steht	stand
+de	en	schleiße	tear
+de	en	genaues	exact
+de	en	ungewöhnlichem	uncommon
+de	en	antichrists	antichrist
+de	en	fernsehkanälen	television
+de	en	ao	initialism
+de	en	premierminister	prime
+de	en	bringest	bring
+de	en	überwiegen	to
+de	en	rohres	duct
+de	en	außerortsstraße	state
+de	en	räucherte	smoke
+de	en	fame	famous
+de	en	utah	utah
+de	en	androidin	android
+de	en	dunstem	drunk
+de	en	chatroom	chat
+de	en	paaren	pair
+de	en	einzelwesen	individual
+de	en	minus	minus
+de	en	minerale	mineral
+de	en	hälme	stalk
+de	en	nachhaus	home
+de	en	poltet	polarize
+de	en	badminton	badminton
+de	en	buchenen	beech
+de	en	tötend	kill
+de	en	lauffeuern	wildfire
+de	en	magierin	witch
+de	en	entthronen	to
+de	en	rättin	rat
+de	en	beabsichtigten	to
+de	en	argumentierte	to
+de	en	bürgen	castle
+de	en	radii	radius
+de	en	absente	absent
+de	en	heimchen	house
+de	en	manhattans	manhattan
+de	en	gäbelchen	fork
+de	en	strukturiertestes	structured
+de	en	reiftest	ripen
+de	en	eilfertiger	hasty
+de	en	torontos	toronto
+de	en	rättig	radish
+de	en	perplexerer	confused
+de	en	fotzend	slap
+de	en	täschel	bag
+de	en	fielest	fall
+de	en	vereinsmitgliedern	club
+de	en	angepassten	adjusted
+de	en	falles	case
+de	en	pickelhauben	pickelhaube
+de	en	verkörpern	to
+de	en	boni	bonus
+de	en	carcinogenes	alternative
+de	en	mi	alternative form of
+de	en	tapezier	wallpaper
+de	en	anderen	see
+de	en	rastplatz	roadhouse
+de	en	impertinente	insolent
+de	en	schwerkraft	gravitation
+de	en	panoramas	panorama
+de	en	oliven	olive
+de	en	guillotinen	guillotine
+de	en	anstrengung	effort
+de	en	mallster	mad
+de	en	literalere	literate
+de	en	nacktem	naked
+de	en	erster	first
+de	en	trias	triassic
+de	en	algebren	algebra
+de	en	werfer	thrower
+de	en	gewalt	strong
+de	en	tarifen	fee
+de	en	belauschen	to
+de	en	vorstoßet	advance
+de	en	iriden	iris
+de	en	schönsten	beautiful
+de	en	pfiffen	whistle
+de	en	pressekonferenz	press
+de	en	bürgerinitiative	citizen
+de	en	abdomina	abdomen
+de	en	messerchen	knife
+de	en	zitterspinnen	daddy
+de	en	die regierung	the government
+de	en	der regierung	the government
+de	en	das regierung	the government
+de	en	regierung ist frei	government is free
+de	en	die regierung hat wasser	the government has water
+de	en	ich bin in der regierung	i am in the government
+de	en	heute ist ein guter regierung	today is a good government
+de	en	die polizei hat das regierung	the police has the government
+de	en	hallo regierung	hello government
+de	en	regierung und stadt	government and city
+de	en	regierung und schule	government and school
+de	en	regierung und wirtschaft	government and economy
+de	en	regierung und unternehmen	government and company
+de	en	regierung und gesetz	government and law
+de	en	regierung und polizei	government and police
+de	en	regierung und krieg	government and war
+de	en	regierung und frieden	government and peace
+de	en	regierung und katze	government and cat
+de	en	regierung und hund	government and dog
+de	en	regierung und haus	government and house
+de	en	regierung und welt	government and world
+de	en	regierung und tag	government and day
+de	en	regierung und kind	government and child
+de	en	regierung und frau	government and woman
+de	en	regierung und mann	government and man
+de	en	regierung und buch	government and book
+de	en	regierung und sprache	government and language
+de	en	regierung und land	government and country
+de	en	die stadt	the city
+de	en	der stadt	the city
+de	en	das stadt	the city
+de	en	stadt ist frei	city is free
+de	en	die stadt hat wasser	the city has water
+de	en	ich bin in der stadt	i am in the city
+de	en	stadt und regierung	city and government
+de	en	heute ist ein guter stadt	today is a good city
+de	en	die polizei hat das stadt	the police has the city
+de	en	hallo stadt	hello city
+de	en	stadt und schule	city and school
+de	en	stadt und wirtschaft	city and economy
+de	en	stadt und unternehmen	city and company
+de	en	die regierung hat wasser und gesetz	the government has water and law
+de	en	Die Katze ist frei	the cat is free
+de	en	Die Polizei hat das Gesetz	the police has the law
+de	en	Hallo Welt ich bin frei	hello world i am free
+de	en	das unternehmen und die wirtschaft	the company and the economy
+de	en	die stadt hat kein wasser	the city has no water
+de	en	ich bin in der schule	i am in the school
+de	en	der krieg und der frieden	the war and the peace
+de	en	heute ist ein guter tag	today is a good day
+de	en	die frau und der mann	the woman and the man
+de	en	die kinder sind in der schule	the children are in the school
+de	en	das haus und die stadt	the house and the city
+de	en	ich habe kein geld	i have no money
+de	en	wir sind frei	we are free
+de	en	er ist in der stadt	he is in the city
+de	en	sie hat ein buch	she has a book
+de	en	die sprache und das wort	the language and the word
+de	en	der könig und das land	the king and the country
+de	en	wasser und milch und brot	water and milk and bread
+de	en	ja und nein	yes and no
+de	en	bitte und danke	please and thanks
+de	en	gestern und heute und morgen	yesterday and today and tomorrow
+de	en	die liebe und der tod	the love and the death
+de	en	mein freund ist gut	my friend is good
+de	en	die arbeit und die zeit	the work and the time
+de	en	ein neues jahr	a new year
+de	en	die kleinen kinder	the small children
+de	en	die große stadt	the large city
+de	en	kein krieg	no war
+de	en	mit der polizei	with the police
+de	en	von der regierung	from the government
+de	en	für die wirtschaft	for the economy
+de	en	auf dem land	on the country
+de	en	nach der schule	after the school
+de	en	unter dem himmel	under the sky
+de	en	zwischen krieg und frieden	between war and peace
+de	en	die neuen gesetze	the new law
+de	en	wir haben wasser	we have water
+de	en	sie sind in der welt	they are in the world
+de	en	das leben und der tod	the life and the death

@@ -45,6 +45,19 @@ const DE_CLOSED = [_]struct { []const u8, []const u8 }{
     .{ "dich", "you" },    .{ "dir", "you" },
     .{ "ihm", "him" },     .{ "ihn", "him" },
     .{ "uns", "us" },      .{ "euch", "you" },
+    // possessives (pack often maps mein→he debris)
+    .{ "mein", "my" },     .{ "meine", "my" },    .{ "meinen", "my" },
+    .{ "meinem", "my" },   .{ "meiner", "my" },   .{ "meines", "my" },
+    .{ "dein", "your" },   .{ "deine", "your" },  .{ "deinen", "your" },
+    .{ "deinem", "your" }, .{ "deiner", "your" },
+    .{ "sein", "be" },     // verb "to be" wins over possessive (closed-class law)
+    .{ "seine", "his" },   .{ "seinen", "his" },  .{ "seinem", "his" },
+    .{ "seiner", "his" },  .{ "seines", "his" },
+    .{ "ihr", "you" },     .{ "ihre", "her" },    .{ "ihren", "her" },
+    .{ "ihrem", "her" },   .{ "ihrer", "her" },
+    .{ "unser", "our" },   .{ "unsere", "our" },  .{ "unseren", "our" },
+    .{ "unserem", "our" }, .{ "unserer", "our" },
+    .{ "euer", "your" },   .{ "eure", "your" },
     .{ "was", "what" },    .{ "wie", "how" },     .{ "wer", "who" },
     .{ "wo", "where" },    .{ "wann", "when" },
     .{ "welche", "which" }, .{ "welcher", "which" }, .{ "welches", "which" },
@@ -59,8 +72,8 @@ const DE_CLOSED = [_]struct { []const u8, []const u8 }{
     .{ "kann", "can" },    .{ "können", "can" },  .{ "koennen", "can" },
     .{ "muss", "must" },   .{ "muß", "must" },
     .{ "müssen", "must" }, .{ "muessen", "must" },
-    .{ "soll", "should" }, .{ "sollen", "should" },
-    .{ "will", "want" },   .{ "wollen", "want" },
+    .{ "soll", "should" }, .{ "sollen", "should" }, .{ "sollst", "should" },
+    .{ "will", "want" },   .{ "wollen", "want" },   .{ "willst", "want" },
     .{ "darf", "may" },    .{ "dürfen", "may" },  .{ "duerfen", "may" },
     .{ "mag", "like" },    .{ "mögen", "like" },  .{ "moegen", "like" },
     // high-frequency news / product content heads
@@ -123,6 +136,12 @@ const DE_CLOSED = [_]struct { []const u8, []const u8 }{
     .{ "koenig", "king" },
     .{ "blut", "blood" },
     .{ "himmel", "sky" },
+    .{ "feind", "enemy" },
+    .{ "freund", "friend" },
+    .{ "hilfe", "help" },
+    .{ "macht", "power" },
+    .{ "insel", "island" },
+    .{ "landes", "country" },
 };
 
 fn eqAsciiLower(a: []const u8, b: []const u8) bool {

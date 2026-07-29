@@ -1,0 +1,266 @@
+{
+  "built_utc": "2026-07-29T18:18:00.420450+00:00",
+  "binary": "I:\\pflt\\embodiment\\zig\\zig-out\\bin\\pflt.exe",
+  "pack": "I:\\pflt\\embodiment\\zig\\data\\densify_pack.tsv",
+  "pin": "D1D38A",
+  "sections": {
+    "selftest": {
+      "ok": true,
+      "returncode": 0,
+      "tail": "densify PASS 8/8\nmachine_form PASS\nde_frame PASS words=4\ntranslate smoke: the government has water\nexact_rate=1.00 tokens=4 resolved=4 S=0.43232 duality=0\nPFLT selftest PASS\n"
+    },
+    "gold_baseline": {
+      "n": 10,
+      "mean_overlap": 1.0,
+      "mean_exact": 1.0,
+      "duality_tokens": 0,
+      "miss_tokens": 0,
+      "returncode": 0
+    },
+    "expanded_gold_build": {
+      "n_pairs": 761,
+      "pack_de_rows": 34715,
+      "closed_rows": 180,
+      "path": "I:\\pflt\\embodiment\\zig\\data\\stress_gold_expanded.tsv"
+    },
+    "gold_expanded": {
+      "n": 761,
+      "mean_overlap": 0.999,
+      "mean_exact": 1.0,
+      "duality_tokens": 3,
+      "miss_tokens": 0,
+      "returncode": 0
+    },
+    "bulk_free": {
+      "n_phrases": 50,
+      "tokens": 273,
+      "resolved": 273,
+      "miss": 0,
+      "duality": 6,
+      "closed": 260,
+      "pack": 13,
+      "exact_rate": 1.0,
+      "miss_rate": 0.0,
+      "duality_rate": 0.02197802197802198,
+      "samples": [
+        {
+          "out_text": "the government the city has no water and no law",
+          "exact_rate": 1.0,
+          "resolved": 10,
+          "tokens": 10,
+          "duality": 0,
+          "miss": 0,
+          "closed": 10,
+          "pack": 0,
+          "input": "die regierung der stadt hat kein wasser und kein gesetz"
+        },
+        {
+          "out_text": "my dog and my cat are free",
+          "exact_rate": 1.0,
+          "resolved": 7,
+          "tokens": 7,
+          "duality": 2,
+          "miss": 0,
+          "closed": 7,
+          "pack": 0,
+          "input": "mein hund und meine katze sind frei"
+        },
+        {
+          "out_text": "we want peace and not war",
+          "exact_rate": 1.0,
+          "resolved": 6,
+          "tokens": 6,
+          "duality": 0,
+          "miss": 0,
+          "closed": 5,
+          "pack": 1,
+          "input": "wir wollen frieden und nicht krieg"
+        },
+        {
+          "out_text": "the police is in the school",
+          "exact_rate": 1.0,
+          "resolved": 6,
+          "tokens": 6,
+          "duality": 0,
+          "miss": 0,
+          "closed": 6,
+          "pack": 0,
+          "input": "die polizei ist in der schule"
+        },
+        {
+          "out_text": "he has money and work",
+          "exact_rate": 1.0,
+          "resolved": 5,
+          "tokens": 5,
+          "duality": 0,
+          "miss": 0,
+          "closed": 5,
+          "pack": 0,
+          "input": "er hat geld und arbeit"
+        },
+        {
+          "out_text": "she can today and tomorrow",
+          "exact_rate": 1.0,
+          "resolved": 5,
+          "tokens": 5,
+          "duality": 0,
+          "miss": 0,
+          "closed": 5,
+          "pack": 0,
+          "input": "sie kann heute und morgen"
+        },
+        {
+          "out_text": "between the sky and the world",
+          "exact_rate": 1.0,
+          "resolved": 6,
+          "tokens": 6,
+          "duality": 0,
+          "miss": 0,
+          "closed": 6,
+          "pack": 0,
+          "input": "zwischen dem himmel und der welt"
+        },
+        {
+          "out_text": "the language the people",
+          "exact_rate": 1.0,
+          "resolved": 4,
+          "tokens": 4,
+          "duality": 1,
+          "miss": 0,
+          "closed": 4,
+          "pack": 0,
+          "input": "die sprache der menschen"
+        },
+        {
+          "out_text": "a old house in the city",
+          "exact_rate": 1.0,
+          "resolved": 6,
+          "tokens": 6,
+          "duality": 0,
+          "miss": 0,
+          "closed": 5,
+          "pack": 1,
+          "input": "ein altes haus in der stadt"
+        },
+        {
+          "out_text": "the children have milk and bread",
+          "exact_rate": 1.0,
+          "resolved": 6,
+          "tokens": 6,
+          "duality": 0,
+          "miss": 0,
+          "closed": 6,
+          "pack": 0,
+          "input": "die kinder haben milch und brot"
+        },
+        {
+          "out_text": "i am and you are",
+          "exact_rate": 1.0,
+          "resolved": 5,
+          "tokens": 5,
+          "duality": 0,
+          "miss": 0,
+          "closed": 5,
+          "pack": 0,
+          "input": "ich bin und du bist"
+        },
+        {
+          "out_text": "the new company the economy",
+          "exact_rate": 1.0,
+          "resolved": 5,
+          "tokens": 5,
+          "duality": 0,
+          "miss": 0,
+          "closed": 4,
+          "pack": 1,
+          "input": "das neue unternehmen der wirtschaft"
+        },
+        {
+          "out_text": "without water and without bread",
+          "exact_rate": 1.0,
+          "resolved": 5,
+          "tokens": 5,
+          "duality": 0,
+          "miss": 0,
+          "closed": 5,
+          "pack": 0,
+          "input": "ohne wasser und ohne brot"
+        },
+        {
+          "out_text": "with love and with friend",
+          "exact_rate": 1.0,
+          "resolved": 5,
+          "tokens": 5,
+          "duality": 0,
+          "miss": 0,
+          "closed": 4,
+          "pack": 1,
+          "input": "mit liebe und mit freund"
+        },
+        {
+          "out_text": "the king has the country",
+          "exact_rate": 1.0,
+          "resolved": 5,
+          "tokens": 5,
+          "duality": 0,
+          "miss": 0,
+          "closed": 5,
+          "pack": 0,
+          "input": "der könig hat das land"
+        }
+      ],
+      "weak": []
+    },
+    "closed_identity": {
+      "n": 180,
+      "ok": 180,
+      "rate": 1.0,
+      "fails": [],
+      "n_fails": 0
+    },
+    "decision_log": {
+      "path": "I:\\pflt\\embodiment\\zig\\logs\\stress_decisions.jsonl",
+      "n_events": 1001,
+      "methods": {
+        "closed": 945,
+        "pack": 532
+      },
+      "top_duality_forms": [
+        [
+          "menschen",
+          4
+        ],
+        [
+          "mensch",
+          3
+        ],
+        [
+          "mein",
+          2
+        ],
+        [
+          "meine",
+          1
+        ],
+        [
+          "macht",
+          1
+        ]
+      ],
+      "top_miss_forms": []
+    }
+  },
+  "gates": {
+    "selftest": true,
+    "gold_baseline_overlap_1": true,
+    "closed_identity_1": true,
+    "expanded_overlap_ge_0_85": true,
+    "bulk_exact_ge_0_75": true
+  },
+  "all_gates_pass": true,
+  "elapsed_s": 32.53,
+  "repo_audit": {
+    "note": "token scan + file parity performed separately",
+    "product_doctrine": "form→SENSE→form densify; closed wins; pin D1D38A"
+  }
+}
