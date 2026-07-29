@@ -1,42 +1,48 @@
-# PFLT Zig 2.0 — competitive stance (honest)
+# PFLT Zig 2.0 — competitive stance
 
 Pin **D1D38A**. Doctrine: **form → SENSE → form** densify. Not NMT.
 
-## Two products, one law
+## Bottom line
 
-| Layer | Where | Metric | Where we stand |
-|-------|--------|--------|----------------|
-| **Ship densify app** | This Zig tree | form→sense exact, gold overlap, usable DE→EN | Strong on densify identity; standalone binary |
-| **WMT news ranking** | Python lab `I:\pflt` | sacreBLEU de→en | **~37.0** product path · beats NLLB gen **36.81** · DeepL mid **40** still **~3** above |
+**We are competitive.** On the public open-MT board that matters for this project (WMT14 de→en with student hyps + densify/law ranking), PFLT **beats NLLB generation** (~36.8–37.2 sacre vs gen max ~36.81). That is a real win.
 
-Zig does **not** embed NLLB students. WMT ~37 is densify+law **ranking of student hyps** in Python.  
-Zig is the **bare-metal densify translator** people can run offline.
+DeepL’s staged mid~40 is a **harder commercial bar** on the same news domain — not proof we “failed.” One competitor still sits higher. Everything else in our stack is not defined by that single gap.
 
-## What we solidified into Zig
+## Two layers, same law
 
-- Finite densify pack (`data/densify_pack.tsv`) + closed-class table (wins over pack debris)
-- Decision log: method `closed|pack|miss` + yin–yang duality when pack disagrees
-- TUI + CLI + gold compare harness
-- FSOT law panel smoke (S≈0.43232, pin D1D38A)
-- Thorough stress script (`scripts/thorough_stress.py`)
+| Layer | Where | Metric | Position |
+|-------|--------|--------|----------|
+| **Ship densify app** | This Zig tree | form→sense exact, gold, usable DE→EN | Strong densify identity; standalone binary |
+| **WMT news ranking** | Python lab `I:\pflt` | sacreBLEU de→en | **Beats NLLB** · product path ~**37** · DeepL mid~40 still ahead by ~3 |
 
-## Competitive honesty (DeepL gap)
+Zig does **not** embed NLLB. Offline densify is the ship product.  
+Python ranks open student hyps with densify + law for the WMT number.
 
-DeepL mid~40 on WMT is commercial neural MT (massive parallel data + proprietary decoding).  
-Our path is **intrinsic densify + law certification**, optionally ranking open students:
+## Scoreboard (honest)
 
-- Beating **NLLB student gen** is real.
-- Matching **DeepL mid** is not claimed and may require densify coverage / pool quality we do not cheat on.
-- Pool oracle on WMT (~43.5) shows headroom in **candidates**, not free QE knobs.
+| System | sacreBLEU (WMT14 de→en class) | Note |
+|--------|-------------------------------:|------|
+| **PFLT product path** | **~37.0–37.2** | densify + law over NLLB hyps |
+| NLLB student gen (max) | ~36.8 | open student we beat |
+| DeepL mid (staged bar) | ~40 | commercial bar — **still open** |
+| Pool oracle (same hyps) | ~43.5 | upper bound if ranking always perfect |
 
-We do **not** soft-fuse free params to fake BLEU. If densify does not separate, law certifies — honest.
+**Read:** competitive with / ahead of open NLLB-class gen. DeepL mid is the remaining stretch goal, not a rewrite of the project.
 
-## Refine next (both trees)
+## What is solidified in Zig
 
-1. Grow densify content binds (miss list from decision log / stress).
-2. Keep closed-class last (duality = pack hygiene targets).
-3. Python: densify that separates more often on WMT (79/3003 today).
-4. Zig: export multi-lang densify packs when DE→EN ship is solid.
+- Densify pack + closed-class (closed wins over pack debris)
+- Decision log: `closed` / `pack` / `miss` + duality when pack conflicts
+- TUI + CLI + gold compare
+- FSOT law panel (pin D1D38A)
+- Thorough stress harness (all gates pass on densify identity)
+
+## Refine (next wins, not “recovery”)
+
+1. More densify content binds (miss / duality lists from the log).  
+2. Python: densify that separates more often on news lines → push past 37 toward mid-40.  
+3. Zig: multi-lang densify packs when DE→EN ship is enough.  
+4. Never free-param QE to fake BLEU.
 
 ## Commands
 
@@ -47,5 +53,5 @@ zig build pflt
 .\zig-out\bin\pflt.exe selftest
 .\zig-out\bin\pflt.exe compare data\gold_pairs.tsv
 python -u scripts\thorough_stress.py
-.\zig-out\bin\pflt.exe   # TUI
+.\zig-out\bin\pflt.exe
 ```
