@@ -1,27 +1,51 @@
 # Protofluid Language Translator 2.0 (Zig)
 
-**Product embodiment** at `I:\pflt\embodiment\zig`  
-**Standalone GitHub tree:** `I:\Protofluid-Language-Translator-2.0-Zig`
+**Ship product** — bare-metal densify translator people can run offline.  
+**GitHub:** https://github.com/dappalumbo91/Protofluid-Language-Translator-2.0-Zig
 
-Bare-metal translator people can run. form → SENSE → form. Pin D1D38A. Not NMT.
+**form → SENSE → form** · FSOT pin **D1D38A** · not NMT
 
-## Use
+**Competitive:** densify ship is usable; Python WMT ranking **beats NLLB gen** (~37). DeepL mid~40 is a separate stretch bar — not the whole story. See `docs/COMPETITIVE_STANCE.md`.
+
+## Quick start (ship)
 
 ```powershell
-zig build pflt
-.\zig-out\bin\pflt.exe                          # modern TUI
-.\zig-out\bin\pflt.exe translate de en "..."
-.\zig-out\bin\pflt.exe compare data\gold_pairs.tsv
+cd dist\pflt-standalone
+.\pflt.exe                              # TUI
+.\pflt.exe translate de en "Die Katze ist frei"
+.\pflt.exe translate la en "aqua et lex"
+.\pflt.exe selftest
+.\pflt.exe compare gold_pairs.tsv
 ```
 
-Decision log: `logs\decisions.jsonl` (method = closed | pack | miss, + duality).
+Keep `densify_pack.tsv` next to `pflt.exe`.
 
-See the standalone repo README for full TUI / compare / ship docs.
+## Build from source
+
+```powershell
+cd I:\pflt\embodiment\zig
+python -u scripts\export_translate_pack.py   # multi-lang densify pack
+zig build pflt
+python -u scripts\ship_baseline_multilang.py
+.\ship.ps1                                   # optional full package
+```
+
+## What ships today
+
+| Piece | Status |
+|-------|--------|
+| **DE→EN densify** | Strong (closed-class + pack; baseline exact 1.0 on smoke suite) |
+| **Multi-lang pack** | **114 langs**, ~386k form→EN sense binds |
+| **Other → EN** | Usable densify where pack hits; misses pass through honestly |
+| **TUI / decision log** | Yes (`logs/decisions.jsonl`) |
+| **Sentence NMT fluency** | Not this binary — densify identity, not DeepL/LLM generation |
+
+Baseline report: `reports/SHIP_BASELINE_MULTILANG.md`
 
 ## Relation
 
 | Tree | Role |
 |------|------|
-| `I:\pflt` Python lab | densify mining, WMT sacre probes |
-| **This Zig tree** | shippable product + TUI + decision log |
-| `I:\fsot nuron\embodiment\zig` | reference only — do not implement PFLT there |
+| `I:\pflt` Python | densify mining, WMT competitive ranking |
+| **This Zig tree** | shippable densify product |
+| `I:\fsot nuron\embodiment\zig` | reference only |
