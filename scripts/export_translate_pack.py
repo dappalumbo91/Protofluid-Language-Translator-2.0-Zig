@@ -315,7 +315,7 @@ def main() -> int:
         "n_langs": len(by_lang),
         "stats": stats,
         "doctrine": "form→SENSE; DE closed last; multi-lang finite caps; no multi-GB; no NMT",
-        "product": "I:\\pflt\\embodiment\\zig pflt translate",
+        "product": "protofluid-language-translator/embodiment/zig pflt translate",
     }
     OUT_META.write_text(json.dumps(meta, indent=2), encoding="utf-8")
     print(json.dumps(meta, indent=2), flush=True)

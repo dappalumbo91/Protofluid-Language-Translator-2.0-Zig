@@ -55,7 +55,7 @@ fn findPackPath(allocator: std.mem.Allocator, explicit: ?[]const u8) !?[]const u
         "densify_pack.tsv",
         "data\\densify_pack.tsv",
         "data/densify_pack.tsv",
-        "I:\\pflt\\embodiment\\zig\\data\\densify_pack.tsv",
+        "data/densify_pack.tsv",
     };
     for (candidates) |c| {
         std.fs.cwd().access(c, .{}) catch continue;

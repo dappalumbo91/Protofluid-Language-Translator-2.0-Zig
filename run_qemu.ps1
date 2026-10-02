@@ -11,7 +11,7 @@ if (-not $zig) {
 }
 if (-not $zig) { throw "zig not found on PATH" }
 
-Write-Host "=== zig build kernel (I:\pflt\embodiment\zig) ==="
+Write-Host "=== zig build kernel ($PSScriptRoot) ==="
 & $zig build kernel
 
 $kernelSrc = Join-Path $PSScriptRoot "zig-out\bin\pflt_kernel"

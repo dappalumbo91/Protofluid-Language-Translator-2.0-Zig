@@ -1,8 +1,8 @@
 const std = @import("std");
 
 /// Protofluid Language Translator — bare-metal Zig (FSOT law + machine tongue).
-/// Location: I:\pflt\embodiment\zig  (NOT the neuron reference tree).
-/// Reference patterns only: I:\fsot nuron\embodiment\zig
+/// Location: .  (NOT the neuron reference tree).
+/// Reference patterns only: FSOT-2.1-Neural/embodiment/zig
 ///
 /// Product binary: pflt (translate CLI people can run and share).
 pub fn build(b: *std.Build) void {

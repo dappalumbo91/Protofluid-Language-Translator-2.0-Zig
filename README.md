@@ -23,7 +23,7 @@ Keep `densify_pack.tsv` next to `pflt.exe`.
 ## Build from source
 
 ```powershell
-cd I:\pflt\embodiment\zig
+cd Protofluid-Language-Translator-2.0-Zig
 python -u scripts\export_translate_pack.py   # multi-lang densify pack
 zig build pflt
 python -u scripts\ship_baseline_multilang.py
@@ -46,6 +46,6 @@ Baseline report: `reports/SHIP_BASELINE_MULTILANG.md`
 
 | Tree | Role |
 |------|------|
-| `I:\pflt` Python | densify mining, WMT competitive ranking |
+| `protofluid-language-translator` Python | densify mining, WMT competitive ranking |
 | **This Zig tree** | shippable densify product |
-| `I:\fsot nuron\embodiment\zig` | reference only |
+| `FSOT-2.1-Neural/embodiment/zig` | reference only |

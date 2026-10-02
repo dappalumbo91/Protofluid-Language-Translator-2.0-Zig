@@ -13,7 +13,7 @@ DeepL’s staged mid~40 is a **harder commercial bar** on the same news domain �
 | Layer | Where | Metric | Position |
 |-------|--------|--------|----------|
 | **Ship densify app** | This Zig tree | form→sense exact, gold, usable DE→EN | Strong densify identity; standalone binary |
-| **WMT news ranking** | Python lab `I:\pflt` | sacreBLEU de→en | **Beats NLLB** · product path ~**37** · DeepL mid~40 still ahead by ~3 |
+| **WMT news ranking** | Python lab `protofluid-language-translator` | sacreBLEU de→en | **Beats NLLB** · product path ~**37** · DeepL mid~40 still ahead by ~3 |
 
 Zig does **not** embed NLLB. Offline densify is the ship product.  
 Python ranks open student hyps with densify + law for the WMT number.
@@ -47,7 +47,7 @@ Python ranks open student hyps with densify + law for the WMT number.
 ## Commands
 
 ```powershell
-cd I:\pflt\embodiment\zig
+cd Protofluid-Language-Translator-2.0-Zig
 python -u scripts\export_translate_pack.py
 zig build pflt
 .\zig-out\bin\pflt.exe selftest
