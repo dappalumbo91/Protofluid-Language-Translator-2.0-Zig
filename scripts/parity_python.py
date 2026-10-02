@@ -2,9 +2,9 @@
 """
 Parity harness: Python FSOT pin standards vs Zig pflt_stress METRIC lines.
 
-Writes report to I:\\pflt\\pflt-Ada\\reports\\ (not Desktop).
+Writes report to protofluid-language-translator/pflt-Ada/reports (not Desktop).
 
-  cd I:\\pflt\\embodiment\\zig
+  cd .
   zig build stress
   python scripts\\parity_python.py
 """
@@ -17,7 +17,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[3]  # I:\pflt
+ROOT = Path(__file__).resolve().parents[3]  # protofluid-language-translator
 ZIG = Path(__file__).resolve().parents[1]
 REP = ROOT / "pflt-Ada" / "reports"
 

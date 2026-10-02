@@ -29,7 +29,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PFLT = ROOT.parent.parent  # I:\pflt
+PFLT = ROOT.parent.parent  # protofluid-language-translator
 BIN = ROOT / "zig-out" / "bin" / "pflt.exe"
 PACK = ROOT / "data" / "densify_pack.tsv"
 GOLD = ROOT / "data" / "gold_pairs.tsv"
