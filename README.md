@@ -1,5 +1,9 @@
 # Protofluid Language Translator 2.0 (Zig)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+Build pin **D1D38A** is retained for this build; current theory authority is [FSOT-2.1-Lean](https://github.com/dappalumbo91/FSOT-2.1-Lean) pin **AEB2AD** (`vendor/fsot_compute.py`).
+
 **Ship product** — bare-metal densify translator people can run offline.  
 **GitHub:** https://github.com/dappalumbo91/Protofluid-Language-Translator-2.0-Zig
 
