@@ -1,0 +1,15 @@
+Protofluid-Language-Translator-2.0-Zig
+Copyright 2026 Damian Arthur Palumbo and PFLT contributors
+
+This product is Protofluid Language Translator 2.0 (Zig): a form->SENSE->form
+bare-metal standalone translator.
+
+The project itself is licensed under the MIT License (see LICENSE).
+
+This repository's README/vendor pin is D1D38A; current theory authority is
+AEB2AD (see FSOT-2.1-Cpp for the C_EFF / S(HEP) re-pin).
+
+This repository is part of the FSOT (Fluid Spacetime Omni-Theory) family.
+Theory authority is vendor/fsot_compute.py in
+https://github.com/dappalumbo91/FSOT-2.1-Lean (pin AEB2AD), also by
+Damian Arthur Palumbo and licensed separately under the Apache License 2.0.
